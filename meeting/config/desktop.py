@@ -5,6 +5,6 @@ def get_data():
 		{
 			"module_name": "Meeting",
 			"type": "module",
-			"label": _("Meeting")
+			"label": ("Meeting")
 		}
 	]
